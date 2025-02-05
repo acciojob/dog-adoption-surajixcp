@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+ ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        img {
+            width: 200px; /* Adjust the size as needed */
+            height: auto;
+        }
